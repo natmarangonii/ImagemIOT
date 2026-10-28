@@ -6,5 +6,6 @@ Natalia Marangoni, Alice Costa, Murilo Chiarello, Nicollas Felisbelo e Mathias P
 
 ## Imagens
 
+| Foto 1 | Foto 2 | Foto 3 |
 | :-: | :-: | :-: |
 | <img src="assets/foto01.png" width="250"/> | <img src="assets/foto02.png" width="250"/> | <img src="assets/foto03.png" width="250"/> |
