@@ -1,4 +1,4 @@
-# Imagens projeto IOT - Semáforo
+# Imagens projeto IOT - Semáforo 
 Projeto IOT com arduino físico de luzes de um semáforo.
 
 ## Participantes
